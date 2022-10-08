@@ -6,7 +6,7 @@
 ### :man_technologist: **About Me**
 
 
-- 👨 Currently pursuing undergraduate degree in CS from BITS Pilani
+- :telescope:  Currently pursuing undergraduate degree in CS from BITS Pilani
 
 - 💻 Have done few projects and courses related to Data Science
 
