@@ -6,9 +6,9 @@
 ### :man_technologist: **About Me**
 
 
-- 👨: Currently pursuing undergraduate degree in CS from BITS Pilani
+- 👨 Currently pursuing undergraduate degree in CS from BITS Pilani
 
-- 💻: Have done few projects and courses related to Data Science
+- 💻 Have done few projects and courses related to Data Science
 
 - :seedling: Currently exploring web - development and learning Javascript and MERN stack
 
