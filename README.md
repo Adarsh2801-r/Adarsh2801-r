@@ -8,7 +8,7 @@
 
 - 💻  Currently working as software engineer in Intuit
 
-- Graduated from BITS Pilani with Major in Computer Science and Data Science Minor 
+- 👨‍🎓  Graduated from BITS Pilani with Major in Computer Science and Data Science Minor 
 
 -  :telescope: Have done few projects and courses related to Data Science
 
