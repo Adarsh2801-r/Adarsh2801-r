@@ -12,7 +12,7 @@
 
 -  :telescope: Have done few projects and courses related to Data Science
 
-- :seedling: Currently exploring web - development and learning Javascript and MERN stack
+- :seedling: Currently exploring Java, Springboot, GraphQL 
 
 - :mailbox:How to reach me: adarsh2801@gmail.com
 
