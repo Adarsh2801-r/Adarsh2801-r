@@ -6,7 +6,9 @@
 ### :man_technologist: **About Me**
 
 
-- 💻  Currently pursuing undergraduate degree in Computer Science from BITS Pilani
+- 💻  Currently working as software engineer in Intuit
+
+- Graduated from BITS Pilani with Major in Computer Science and Data Science Minor 
 
 -  :telescope: Have done few projects and courses related to Data Science
 
