@@ -12,10 +12,6 @@
 
 - 👨‍🎓  Graduated from BITS Pilani with Major in Computer Science and Data Science Minor 
 
--  :telescope: Have done few projects and courses related to Data Science
-
-- :seedling: Currently exploring Java, Springboot, GraphQL 
-
 - :mailbox: How to reach me: adarshrajesh0208@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools
