@@ -16,7 +16,7 @@
 
 - :seedling: Currently exploring Java, Springboot, GraphQL 
 
-- :mailbox:How to reach me: adarsh2801@gmail.com
+- :mailbox: How to reach me: adarshrajessh0208@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
