@@ -41,7 +41,7 @@
 
 
 
-## 🕸️: Let's Connect!
+## 🕸️ Let's Connect!
 <div id="badges">
   <a href="//
 www.linkedin.com/in/r-adarsh2801">
