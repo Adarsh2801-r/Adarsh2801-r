@@ -36,9 +36,7 @@
 </div>
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adarsh2801-r&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adarsh2801-r)](https://git.io/streak-stats)
 
 
 ## 🕸️ Let's Connect!
